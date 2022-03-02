@@ -1,7 +1,7 @@
 Vue_i18n_photoswitcher 
 
 This is a project which will help you to understand how to use Vue i18n and translate the project content from JSON. 
-As a bonus I made workshop how to switch .png `<img>` by switching localization. All images (`all.png` and `mathbg.png`) and background were drawn by me.  
+As a bonus I added an example how to switch .png `<img>` by switching localization. All images (`all.png` and `mathbg.png`) and background were drawn by me.  
 
 ### How set up the project:
 ```
